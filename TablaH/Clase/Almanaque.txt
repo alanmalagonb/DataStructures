@@ -1,0 +1,7 @@
+Mexico CDMX Mexicano Espanol PesoMexicano 127600000 9946.03
+EstadosUnidos WashintongDC Estadounidense Ingles DolarEstadounidense 328200000 65297.52
+Canada Ottawa Canadience Ingles DolarCanadiense 37590000 46197.73
+Ucrania Kiev Ucraniano Ucrananio Grivna 44390000 3.294
+Uganda Kampala Ugandes Ingles ChelinUgandes 44270000 794.34
+Uruguay Montevideo Uruguayo Espanol PesoUruguayo 3462000 16190.13
+Uzbekistan Taskent Uzbeko Uzbeko SomUzbeko 33000000 1724.84

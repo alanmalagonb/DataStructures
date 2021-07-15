@@ -1,0 +1,2 @@
+
+    rotaIzq(c);

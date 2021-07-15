@@ -1,0 +1,7 @@
+H	Hidrogeno	1 1.0
+He	Helio	18	4.0
+Be	Berilio	4 9.0
+B	Boro	5 10.81
+C	Carbono	6 12.010
+N	Nitrogeno 7	14.006	
+O	Oxigeno	16 15.9
